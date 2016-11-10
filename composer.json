@@ -1,0 +1,8 @@
+{
+    "name": "brunorbarroso/Sell-with-PagSeguro-for-WordPress",
+    "description": "Plugin for to sell products in websites WordPress",
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+	 "pagseguro/php3": "3.0"
+    }
+}
