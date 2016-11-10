@@ -1,5 +1,5 @@
 {
-    "name": "brunorbarroso/sell-with-pag-seguro-for-word-press",
+    "name": "brunorbarroso/sell-pagseguro-for-wp",
     "description": "Plugin for to sell products in websites WordPress",
     "require": {
         "php": "^5.3.3 || ^7.0",
